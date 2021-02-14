@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/POC_Brokers/static/css/main.5ac45f21.chunk.css",
+    "main.js": "/POC_Brokers/static/js/main.2633abd6.chunk.js",
+    "main.js.map": "/POC_Brokers/static/js/main.2633abd6.chunk.js.map",
+    "runtime-main.js": "/POC_Brokers/static/js/runtime-main.f774e3a9.js",
+    "runtime-main.js.map": "/POC_Brokers/static/js/runtime-main.f774e3a9.js.map",
+    "static/js/2.fad90ca1.chunk.js": "/POC_Brokers/static/js/2.fad90ca1.chunk.js",
+    "static/js/2.fad90ca1.chunk.js.map": "/POC_Brokers/static/js/2.fad90ca1.chunk.js.map",
+    "static/js/3.e2aa4a1c.chunk.js": "/POC_Brokers/static/js/3.e2aa4a1c.chunk.js",
+    "static/js/3.e2aa4a1c.chunk.js.map": "/POC_Brokers/static/js/3.e2aa4a1c.chunk.js.map",
+    "index.html": "/POC_Brokers/index.html",
+    "static/css/main.5ac45f21.chunk.css.map": "/POC_Brokers/static/css/main.5ac45f21.chunk.css.map",
+    "static/js/2.fad90ca1.chunk.js.LICENSE.txt": "/POC_Brokers/static/js/2.fad90ca1.chunk.js.LICENSE.txt",
+    "static/media/login.8c15248c.jpg": "/POC_Brokers/static/media/login.8c15248c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f774e3a9.js",
+    "static/js/2.fad90ca1.chunk.js",
+    "static/css/main.5ac45f21.chunk.css",
+    "static/js/main.2633abd6.chunk.js"
+  ]
+}
