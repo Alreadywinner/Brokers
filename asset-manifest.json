@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Brokers/static/css/main.5ac45f21.chunk.css",
-    "main.js": "/Brokers/static/js/main.d8d4bf0e.chunk.js",
-    "main.js.map": "/Brokers/static/js/main.d8d4bf0e.chunk.js.map",
+    "main.css": "/Brokers/static/css/main.110070e8.chunk.css",
+    "main.js": "/Brokers/static/js/main.2603eb95.chunk.js",
+    "main.js.map": "/Brokers/static/js/main.2603eb95.chunk.js.map",
     "runtime-main.js": "/Brokers/static/js/runtime-main.78f30915.js",
     "runtime-main.js.map": "/Brokers/static/js/runtime-main.78f30915.js.map",
     "static/js/2.fad90ca1.chunk.js": "/Brokers/static/js/2.fad90ca1.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.e2aa4a1c.chunk.js": "/Brokers/static/js/3.e2aa4a1c.chunk.js",
     "static/js/3.e2aa4a1c.chunk.js.map": "/Brokers/static/js/3.e2aa4a1c.chunk.js.map",
     "index.html": "/Brokers/index.html",
-    "static/css/main.5ac45f21.chunk.css.map": "/Brokers/static/css/main.5ac45f21.chunk.css.map",
+    "static/css/main.110070e8.chunk.css.map": "/Brokers/static/css/main.110070e8.chunk.css.map",
     "static/js/2.fad90ca1.chunk.js.LICENSE.txt": "/Brokers/static/js/2.fad90ca1.chunk.js.LICENSE.txt",
     "static/media/login.8c15248c.jpg": "/Brokers/static/media/login.8c15248c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.78f30915.js",
     "static/js/2.fad90ca1.chunk.js",
-    "static/css/main.5ac45f21.chunk.css",
-    "static/js/main.d8d4bf0e.chunk.js"
+    "static/css/main.110070e8.chunk.css",
+    "static/js/main.2603eb95.chunk.js"
   ]
 }
