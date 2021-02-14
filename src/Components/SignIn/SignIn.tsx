@@ -26,7 +26,7 @@ const SignIn:React.FC = () => {
                     <div className = "term">
                         <button className = "login-btn">Log In</button>
                     </div>
-                    <p className = "term">Dont have an account yet? &nbsp; <Link to = "/">Join Us</Link></p>
+                    <p className = "term">Dont have an account yet? &nbsp; <Link to = "/Brokers">Join Us</Link></p>
                 </form>
             </div>
         </div>
