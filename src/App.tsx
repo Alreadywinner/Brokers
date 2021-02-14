@@ -8,8 +8,8 @@ const App:React.FC = () => {
   return (
     <Router>
       <Switch>
-        <Route exact path="/Brokers" component={SignUp} />
-        <Route path="/sign-in" component={SignIn} />
+        <Route exact path="/Brokers" component={SignIn} />
+        <Route path="/Signup" component={SignUp} />
       </Switch>
     </Router>
   );

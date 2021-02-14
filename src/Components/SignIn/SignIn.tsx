@@ -8,6 +8,7 @@ const SignIn:React.FC = () => {
         <div>
             <div className = "container">
             <div className = "login-img-login">
+                <h1>Welcome to the Seller Dashboard !</h1>
                 <img src = {login} alt = "Login" /> 
             </div>
             <div className = "signin-form">
@@ -26,7 +27,7 @@ const SignIn:React.FC = () => {
                     <div className = "term">
                         <button className = "login-btn">Log In</button>
                     </div>
-                    <p className = "term">Dont have an account yet? &nbsp; <Link to = "/Brokers">Join Us</Link></p>
+                    <p className = "term">Dont have an account yet? &nbsp; <Link to = "/Signup">Join Us</Link></p>
                 </form>
             </div>
         </div>
