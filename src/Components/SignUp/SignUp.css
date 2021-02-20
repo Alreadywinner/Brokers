@@ -1,28 +1,3 @@
-.container{
-    width: 100%;
-    height: 100%;
-    display:flex;
-}
-.main-form{
-    width: 50%;
-    color:#636774;
-    font-weight: 650;
-}
-.login-img{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    width: 50%;
-    height: 100vh;
-    color:#fff;
-    background-color: #393DDF;
-}
-.main-heading{
-    margin: 50px;
-    font-size: 40px;
-    color:#040404;
-}
 .signUp-input{
     color: #ababab;
     font-weight: lighter;
@@ -36,12 +11,14 @@
     transition: all 0.3s;
   }
 .form-group{
-    margin: 50px;
+    margin: 15px;
+    width: 100%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
 .inner-group{
+    width: 100%;
     display: flex;
     flex-direction: column;
 }
@@ -50,7 +27,7 @@
 }
 .terms{
     font-weight: 500;
-    margin: 50px;
+    margin: 10px;
 }
 .terms-2{
     font-weight: 700;
