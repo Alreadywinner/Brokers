@@ -1,16 +1,29 @@
-import React from "react";
+import React,{ useEffect,useState } from "react";
 import { Link } from "react-router-dom";
 import login from "../../assests/login.jpg";
+import Splash from "../Splash/Splash";
 import "./SignUp.css";
 const SignUp: React.FC = () => {
+    const [showContent,setShowContent] = useState(false);
+
+    useEffect(() => {
+        const timer = setTimeout(() => {
+            setShowContent(true);
+        },5000);
+        return () => {clearTimeout(timer)}
+    },[]);
     return(
-        <div className = "main">
-            <section className = "signin">
-                <div className = "signin-container">
-                    <div className = "signin-img">
-                        <h1>Welcome to the Seller Dashboard !</h1>
-                        <img src = {login} alt = "Login" />
-                    </div>
+        <div>
+            {showContent === false ? (
+                <Splash />
+            ):(
+            <div className = "main">
+                    <section className = "signin">
+                    <div className = "signin-container">
+                        <div className = "signin-img">
+                            <h1>Welcome to the Seller Dashboard !</h1>
+                            <img src = {login} alt = "Login" />
+                        </div>
                     <div className = "signin-content">
                         <h1 className = "login-heading">Register</h1>
                         <form className = "signin-form">
@@ -55,6 +68,8 @@ const SignUp: React.FC = () => {
                     </div>
                 </div>
             </section>
+        </div>
+        )}
         </div>
     );
 }
