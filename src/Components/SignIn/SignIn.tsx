@@ -22,7 +22,7 @@ const SignIn:React.FC = () => {
                         <section className = "signin">
                             <div className = "signin-container">
                                 <div className = "signin-img">
-                                    <h1>Welcome to the Seller Dashboard !</h1>
+                                    <h1 className = "main-heading-login">Welcome to the Seller Dashboard !</h1>
                                     <img src = {login} alt = "Login" />
                                 </div>
                                 <div className = "signin-content">

@@ -1,0 +1,120 @@
+.dashboard-nav{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #393DDF;
+    align-items: center;
+    color:#fff;
+    padding: 20px;
+}
+.create-flyer{
+    padding-left:30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    text-transform: uppercase;
+    background: #fff;
+    border:1px solid #393DDF;
+}
+.dasboard-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    padding: 20px;
+}
+.flyer-container{
+  padding-top: 30px;
+  width:100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.flyer-card{
+  width: 30%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.flyer-card a:hover{
+  text-decoration: none;
+}
+
+.trending-tour-item {
+  margin-bottom: 50px;
+  border-radius: 5px;
+  -ms-box-shadow: -1px 10px 34px -1px rgba(0, 0, 0, 0.12);
+  box-shadow: -1px 10px 34px -1px rgba(0, 0, 0, 0.12);
+  -o-box-shadow: -1px 10px 34px -1px rgba(0, 0, 0, 0.12);
+  width: 100%;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.trending-tour-item img {
+  vertical-align: middle;
+  transition: all 0.5s;
+}
+
+.trending-tour-item:hover > img {
+  transform: scale(1.1);
+}
+.trending-tour-item__thumnail{
+  width: 100%;
+}
+.trending-tour-item__info {
+  padding: 25px 20px;
+  position: relative;
+  background-color: #ffffff;
+}
+.trending-tour-item__name {
+  margin-bottom: 3px;
+  text-transform: uppercase;
+  /* font-family: "Lato-900"; */
+  font-size: 17px;
+  /* color: black; */
+  font-weight: normal;
+  width: 75%;
+  margin: 0;
+  color:black;
+}
+.trending-tour-item__group-infor__lasting {
+  display:flex;
+  width: 100%;
+  margin-top: 18px;
+  color:black;
+}
+.buy-now{
+  width: 100%;
+  padding-left:30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 30px;
+  text-transform: uppercase;
+  background: #fff;
+  border:1px solid #393DDF;
+  text-align: center;
+  color: #666666;
+}
+.trending-tour-item__group-infor__rating{
+  color: #666666;
+  margin-top:5px;
+}
+
+@media (max-width:900px){
+  .dasboard-content{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .flyer-container{
+    padding-top: 20px;
+    justify-content: center;
+  }
+  .flyer-card{
+    width: 80%;
+  }
+}
+

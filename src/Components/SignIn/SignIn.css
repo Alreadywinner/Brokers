@@ -67,6 +67,9 @@
 .form-grouping{
     width: 100%;
 }
+.main-heading-login{
+    font-size: 30px;
+}
 .signin-input{
     color: #ababab;
     font-weight: lighter;

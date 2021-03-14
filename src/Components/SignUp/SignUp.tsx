@@ -21,7 +21,7 @@ const SignUp: React.FC = () => {
                     <section className = "signin">
                     <div className = "signin-container">
                         <div className = "signin-img">
-                            <h1>Welcome to the Seller Dashboard !</h1>
+                            <h1 className = "main-heading">Welcome to the Seller Dashboard !</h1>
                             <img src = {login} alt = "Login" />
                         </div>
                     <div className = "signin-content">
@@ -61,7 +61,7 @@ const SignUp: React.FC = () => {
                                 <input type="checkbox" className="checkbox"/>&nbsp;&nbsp;I Accept to the Terms & Conditions
                             </div>
                             <div className = "terms">
-                                <button className = "login-btn">Create Account</button>
+                                <Link to = "/dashboard"><button className = "login-btn">Create Account</button></Link>
                             </div>
                             <p className = "terms-2">Already have an account?&nbsp; <Link to = "/Brokers">Log in</Link></p>
                         </form>

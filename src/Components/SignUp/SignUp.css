@@ -73,6 +73,9 @@
     text-decoration: none;
     color:#4671FB;
 }
+.main-heading{
+    font-size: 35px;
+}
 
 @media screen and (max-width:1000px){
     .main-form{
