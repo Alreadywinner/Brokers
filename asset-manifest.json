@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/Brokers/static/css/main.874445db.chunk.css",
-    "main.js": "/Brokers/static/js/main.373d1a53.chunk.js",
-    "main.js.map": "/Brokers/static/js/main.373d1a53.chunk.js.map",
-    "runtime-main.js": "/Brokers/static/js/runtime-main.d437690c.js",
-    "runtime-main.js.map": "/Brokers/static/js/runtime-main.d437690c.js.map",
-    "static/js/2.7f82b7d3.chunk.js": "/Brokers/static/js/2.7f82b7d3.chunk.js",
-    "static/js/2.7f82b7d3.chunk.js.map": "/Brokers/static/js/2.7f82b7d3.chunk.js.map",
-    "static/js/3.b0060e38.chunk.js": "/Brokers/static/js/3.b0060e38.chunk.js",
-    "static/js/3.b0060e38.chunk.js.map": "/Brokers/static/js/3.b0060e38.chunk.js.map",
+    "main.css": "/Brokers/static/css/main.a399479d.chunk.css",
+    "main.js": "/Brokers/static/js/main.e82d9ac2.chunk.js",
+    "main.js.map": "/Brokers/static/js/main.e82d9ac2.chunk.js.map",
+    "runtime-main.js": "/Brokers/static/js/runtime-main.29577663.js",
+    "runtime-main.js.map": "/Brokers/static/js/runtime-main.29577663.js.map",
+    "static/css/2.3c328e4c.chunk.css": "/Brokers/static/css/2.3c328e4c.chunk.css",
+    "static/js/2.bad56e6a.chunk.js": "/Brokers/static/js/2.bad56e6a.chunk.js",
+    "static/js/2.bad56e6a.chunk.js.map": "/Brokers/static/js/2.bad56e6a.chunk.js.map",
+    "static/js/3.b1405cae.chunk.js": "/Brokers/static/js/3.b1405cae.chunk.js",
+    "static/js/3.b1405cae.chunk.js.map": "/Brokers/static/js/3.b1405cae.chunk.js.map",
     "index.html": "/Brokers/index.html",
-    "static/css/main.874445db.chunk.css.map": "/Brokers/static/css/main.874445db.chunk.css.map",
-    "static/js/2.7f82b7d3.chunk.js.LICENSE.txt": "/Brokers/static/js/2.7f82b7d3.chunk.js.LICENSE.txt",
+    "static/css/2.3c328e4c.chunk.css.map": "/Brokers/static/css/2.3c328e4c.chunk.css.map",
+    "static/css/main.a399479d.chunk.css.map": "/Brokers/static/css/main.a399479d.chunk.css.map",
+    "static/js/2.bad56e6a.chunk.js.LICENSE.txt": "/Brokers/static/js/2.bad56e6a.chunk.js.LICENSE.txt",
     "static/media/login.8c15248c.jpg": "/Brokers/static/media/login.8c15248c.jpg",
     "static/media/splash.6aec4359.gif": "/Brokers/static/media/splash.6aec4359.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.d437690c.js",
-    "static/js/2.7f82b7d3.chunk.js",
-    "static/css/main.874445db.chunk.css",
-    "static/js/main.373d1a53.chunk.js"
+    "static/js/runtime-main.29577663.js",
+    "static/css/2.3c328e4c.chunk.css",
+    "static/js/2.bad56e6a.chunk.js",
+    "static/css/main.a399479d.chunk.css",
+    "static/js/main.e82d9ac2.chunk.js"
   ]
 }
